@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.ornek.kitapyonetimuygulamasi.app-merged_res-20:/drawable_button_bg.xml.flat",
+        "source": "com.ornek.kitapyonetimuygulamasi.app-main-22:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.ornek.kitapyonetimuygulamasi.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.ornek.kitapyonetimuygulamasi.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ornek.kitapyonetimuygulamasi.app-merged_res-20:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.ornek.kitapyonetimuygulamasi.app-main-22:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ornek.kitapyonetimuygulamasi.app-merged_res-20:/drawable_search_box_bg.xml.flat",
+        "source": "com.ornek.kitapyonetimuygulamasi.app-main-22:/drawable/search_box_bg.xml"
+    },
+    {
+        "merged": "com.ornek.kitapyonetimuygulamasi.app-merged_res-20:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.ornek.kitapyonetimuygulamasi.app-main-22:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ornek.kitapyonetimuygulamasi.app-merged_res-20:/layout_kitap_item.xml.flat",
+        "source": "com.ornek.kitapyonetimuygulamasi.app-main-22:/layout/kitap_item.xml"
+    },
+    {
+        "merged": "com.ornek.kitapyonetimuygulamasi.app-merged_res-20:/drawable_toggle_button_bg.xml.flat",
+        "source": "com.ornek.kitapyonetimuygulamasi.app-main-22:/drawable/toggle_button_bg.xml"
+    },
+    {
+        "merged": "com.ornek.kitapyonetimuygulamasi.app-merged_res-20:/drawable_ic_star.xml.flat",
+        "source": "com.ornek.kitapyonetimuygulamasi.app-main-22:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.ornek.kitapyonetimuygulamasi.app-merged_res-20:/drawable_kitap_karti_bg.xml.flat",
+        "source": "com.ornek.kitapyonetimuygulamasi.app-main-22:/drawable/kitap_karti_bg.xml"
+    }
+]

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorFavoriteStar">#FFC107</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <string name="app_name">Kitap Yönetim Uygulaması</string>
+    <string name="favori_kitap">Favoriler: %1$d</string>
+    <string name="kategori">Kategori</string>
+    <string name="odunc_ver">Ödünç Ver</string>
+    <string name="toplam_kitap">Toplam: %1$d</string>
+    <string name="yorum_ekle">Yorum Ekle</string>
+    <style name="AppButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_bg</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:padding">8dp</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+    </style>
+    <style name="KitapKarti">
+        <item name="android:background">@drawable/kitap_karti_bg</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:elevation">2dp</item>
+    </style>
+</resources>

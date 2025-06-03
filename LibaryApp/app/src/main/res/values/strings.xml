@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kitap Yönetim Uygulaması</string>
+    <string name="kategori">Kategori</string>
+    <string name="odunc_ver">Ödünç Ver</string>
+    <string name="yorum_ekle">Yorum Ekle</string>
+    <string name="toplam_kitap">Toplam: %1$d</string>
+    <string name="favori_kitap">Favoriler: %1$d</string>
+</resources>
